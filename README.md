@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**SeniruR/SeniruR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seniru Ranasinghe, a passionate coder and data analytics enthusiast. I'm always happy to learn and collaborate on exciting new challenges.
 
-Here are some ideas to get you started:
+### 🔭 I’m currently working on
+- [Eventease](https://github.com/PasindhuHeshan/Eventease)
+- [ECAP](https://github.com/SeniruR/ECAP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 I’m currently learning
+- Advanced Java
+- PHP frameworks
+- Data analytics techniques
+
+### 👯 I’m looking to collaborate on
+- Open-source projects
+- Data analytics and visualization
+- Web development
+
+### 🤔 I’m looking for help with
+- Improving my coding skills
+- Learning new technologies
+
+### 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/seniruranasinghe)
+- [Stack Overflow](https://stackoverflow.com/users/23171278/seniru-ranasinghe)
+- [Quora](https://www.quora.com/profile/Seniru-Ranasinghe-1)
+
+### ⚡ Fun fact
+- I love exploring new technologies and applying them to solve real-world problems.
