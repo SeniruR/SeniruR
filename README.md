@@ -11,7 +11,7 @@ I'm Seniru Ranasinghe, a passionate coder and data analytics enthusiast. I'm alw
 - PHP frameworks
 - Data analytics techniques
 
-### 👯 I’m looking to collaborate on
+### 👐🏻 I’m looking to collaborate on
 - Open-source projects
 - Data analytics and visualization
 - Web development
