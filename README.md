@@ -3,16 +3,14 @@
 I'm Seniru Ranasinghe, a passionate coder and data analytics enthusiast. I'm always happy to learn and collaborate on exciting new challenges.
 
 ### 🔭 I’m currently working on
-- [Eventease](https://github.com/PasindhuHeshan/Eventease)
 - [ECAP](https://github.com/SeniruR/ECAP)
 
 ### 🌱 I’m currently learning
-- Advanced Java
+- SQL
 - PHP frameworks
-- Data analytics techniques
 
 ### 👐🏻 I’m looking to collaborate on
-- Open-source projects
+- Open source projects
 - Data analytics and visualization
 - Web development
 
